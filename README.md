@@ -5,5 +5,5 @@ To run the sample you need to add your Pixabay api key in ApiConfig
 
 </n>@GET("?key=yourKey&q=success&image_type=photo")
 
-[Screen Shot](screenShots/Screenshot_Pixabay Play.jpg)
+![](screenShots/Screenshot_Pixabay%20Play.jpg)
 
